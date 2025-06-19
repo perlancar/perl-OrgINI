@@ -84,7 +84,7 @@ will convert to this IOD:
 
 Org definition list will become IOD key-value pairs.
 
-When converting to IoD, C<=> in term of definition list must be encoded to
+When converting to IOD, C<=> in term of definition list must be encoded to
 C<\x3d>.
 
 Newlines and substructures under the term must be encoded using backslash string
