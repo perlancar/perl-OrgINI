@@ -160,5 +160,9 @@ will convert to this IOD:
 
 [2] L<IOD>
 
+Some projects already using this format: L<App::orgadb>
+
+=cut
+
 #ABSTRACT: OrgINI file format specification
 #PODNAME: OrgINI
