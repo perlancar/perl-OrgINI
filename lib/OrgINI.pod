@@ -156,7 +156,7 @@ will convert to this IOD:
 
 =head1 SEE ALSO
 
-[1] https://orgmode.org/
+[1] L<https://orgmode.org/>
 
 [2] L<IOD>
 
